@@ -5,7 +5,7 @@ import java.util.Queue;
 import java.util.Arrays;
 import java.util.LinkedList;
 
-public class tenkindsofpeople {
+public class TenKindsOfPeople {
     static int[][] map;
     static int[][] delta = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
     static boolean[][] visited;
