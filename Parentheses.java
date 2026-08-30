@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+class Parentheses {
     private int performOpr(String n1String, String n2String, char opr) {
         int n1 = Integer.valueOf(n1String);
         int n2 = Integer.valueOf(n2String);
