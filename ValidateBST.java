@@ -21,7 +21,7 @@ class TreeNode {
     }
 }
 
-class validatebst {
+class ValidateBST {
     private void listOfValues(List<Integer> values, TreeNode root) {
         if (root == null) {
             return;
