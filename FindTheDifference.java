@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/find-the-difference/
 import java.util.Arrays;
 
-class findthedifference {
+class FindTheDifference {
     public char findTheDifference(String s, String t) {
         if (!s.equals(t)) {
             char[] sArr = s.toCharArray();
