@@ -2,14 +2,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-/*
-I feel like a FP wizard with this code.
-For reference, I spent 1 week tryna learn haskell for a stupid pandoc project
-that I realized I had no use for that later on
-... and I still don't like haskell
-*/
-
-public class aboveaverage {
+public class AboveAverage {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int dataset = input.nextInt();
