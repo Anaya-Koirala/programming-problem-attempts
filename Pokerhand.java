@@ -5,7 +5,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class pokerhand {
+public class Pokerhand {
 
     // **WARNING** NEVER TRY TO MAKE THIS STRING SHIT YOURSELF, ALWAYS END UP FORGETTING THE TEN AND ADDING AN EXTRA 1
     final static String stringRanks = "A23456789TJQK";
